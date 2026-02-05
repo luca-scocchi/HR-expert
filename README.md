@@ -36,5 +36,5 @@ Designed to reduce operational overhead and improve reliability in HR processes.
 - Internal tooling for HR teams or consultants
 
 ## 👤 Author
-Created by **Luca**  
+Created by **Luca Scocchi**  
 Workflow Automation & AI Integration
