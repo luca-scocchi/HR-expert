@@ -38,3 +38,9 @@ Designed to reduce operational overhead and improve reliability in HR processes.
 ## 👤 Author
 Created by **Luca Scocchi**  
 Workflow Automation & AI Integration
+
+## 📚 Documentation
+- [Overview](docs/overview.md)
+- [Architecture](docs/architecture.md)
+- [Nodes Breakdown](docs/nodes-breakdown.md)
+- [Use Cases](docs/use-cases.md)
