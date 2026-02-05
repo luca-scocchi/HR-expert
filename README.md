@@ -9,7 +9,7 @@ This workflow automates repetitive and high-friction HR tasks by:
 - Using AI to analyze, enrich or transform data
 - Orchestrating logic across multiple nodes
 - Producing consistent, repeatable outputs with minimal manual intervention
-
+![HR Expert n8n Workflow](assets/workflow-diagram.png)
 Designed to reduce operational overhead and improve reliability in HR processes.
 
 ## 🧩 Tech Stack
